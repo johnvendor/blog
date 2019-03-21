@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Moldy Food in Sichuan School Sparks Outcry, Investigation"
+title: "中国成都七中实验学校食物丑闻"
 date: "2019-03-14 20:49:13 -0700"
 categories: news
 ---
